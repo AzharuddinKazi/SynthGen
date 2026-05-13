@@ -1,0 +1,6 @@
+{
+  "name": "SynthGen - Synthetic Data Engine",
+  "description": "An AI-guided web application with a Python backend to generate domain-aware synthetic datasets that adhere to user-specified statistical distributions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
